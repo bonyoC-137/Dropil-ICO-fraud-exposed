@@ -34,9 +34,10 @@ Bitmart                                    | Wallet
 
 ## Note that the list is not full and there can be a lot more interesting addresses to check later.
 
-## ## (update - May 2020 There is new evidence to be added soon)
+### (update - May 2020 There is new evidence to be added soon)
 
-A small introduction<br>
+### A small introduction
+
 All dropil ICO addresses were funded with drops a year ago from `0x925ea5af075bde17811e4bcdc198dc5d3675e466 (dropil vault).`<br>
 To receive tokens you should claim it using **dropil.com** and when you do it your address gets some ether from technical wallet `0xb30f2f834f19b3836ad326e51affbf9219c130a8` for paying txfee for transfer drops to an address that you choose.
 

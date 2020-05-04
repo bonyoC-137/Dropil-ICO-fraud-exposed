@@ -97,8 +97,31 @@ We have our first connections but let us go further and I will show you a lot mo
 
 ## Chapter 3\. Covering tracks or leaving evidences ?
 
-Later `0xfd7f7` sent ether to sleeping ICO address `0xcddc8a77d2c14b7d3c12f1bbca87cd0232c9b9f1` which sent its 12 m drops to `0x04b49a5c7433eb578b715ac23b9418ff41e1f5e3` which is an address of another IDAX account with a total income of 120 millions of drops drops. To be honest there is a part of drops obtained from other exchanges but still the most part of these 120 millions is from ICO wallets. Using of these complicated schemes with transfer from one exchange to another was done really bad because it allowed me to find more connections with other interesting addresses. Let us look closer at `0x04b49a5c7433eb578b715ac23b9418ff41e1f5e3` `0x04b49` has got some part of tokens from `0x6a9717964154d72d43081b1a611197630a3aea49` that is very interesting for us. It is some little hub for drops that was used to cover tracks, but they had to do it much more carefully. `0x6a971` sent drops directly to `0x4bedb29721617e722e3b92950e547795b5182fb9 (Tidex, 75 millions of incoming drops)`, `0xdcfffa54ad7d3cd18c1876af6ef2ae1e1da7febe (Bitmart, just 16 millions )`, `0xae1402e65d3ad9b802d4e7304a0e722106960c7f (Tidex, 48 millions of incoming drops)` `0xae1402` got 16 ethers directly from initial ether hub `0xf4392fd61ecbe949121ea3e2951a9a21b69ace76` And so let us look at outgoing txns from this hub: <https://etherscan.io/txs?a=0xf4392fd61ecbe949121ea3e2951a9a21b69ace76&f=2> The main address for the dropil system ( 0x925ea5af075bde17811e4bcdc198dc5d3675e466 ) was funded from this address for 5 times. The second important address 0xb30f2f834f19b3836ad326e51affbf9219c130a8 also got ethers from this hub for paying fees.
+Later `0xfd7f7` sent ether to sleeping ICO address `0xcddc8a77d2c14b7d3c12f1bbca87cd0232c9b9f1`<br>
+which sent its 12 m drops to `0x04b49a5c7433eb578b715ac23b9418ff41e1f5e3`<br>
+which is an address of another IDAX account with a total income of _120 millions of drops_.<br>
+To be honest there is a part of drops obtained from other exchanges but still the most part of these _120 millions_ is from ICO wallets.<br>
+Using of these _complicated schemes_ with transfer from one exchange to another was done really bad,<br>
+because it allowed me to find more connections with other interesting addresses.<br>
+Let us look closer at `0x04b49a5c7433eb578b715ac23b9418ff41e1f5e3`<br>
+`0x04b49` has got some part of tokens from `0x6a9717964154d72d43081b1a611197630a3aea49` that is very interesting for us.<br>
+It is some little hub for drops that was used to cover tracks, but they had to do it much more carefully.<br>
+`0x6a971` sent drops directly to<br>
+`0x4bedb29721617e722e3b92950e547795b5182fb9 (Tidex, 75 millions of incoming drops)`,<br>
+`0xdcfffa54ad7d3cd18c1876af6ef2ae1e1da7febe (Bitmart, just 16 millions )`,<br>
+`0xae1402e65d3ad9b802d4e7304a0e722106960c7f (Tidex, 48 millions of incoming drops)`<br>
+`0xae1402` got 16 ethers directly from initial ether hub `0xf4392fd61ecbe949121ea3e2951a9a21b69ace76`<br>
+And so let us look at outgoing txns from this hub:<br>
+<https://etherscan.io/txs?a=0xf4392fd61ecbe949121ea3e2951a9a21b69ace76&f=2><br>
+**The main address for the dropil system ( `0x925ea5af075bde17811e4bcdc198dc5d3675e466` ) was funded from this address for 5 times.**<br>
+The second important address `0xb30f2f834f19b3836ad326e51affbf9219c130a8` also got ethers from this hub for paying fees.
 
-Ethereum (ETH) Blockchain Explorer Ethereum Transactions Information | Etherscan Transactions that have been mined and confirmed on the Ethereum Blockchain. The list consists of transactions from sending Ether and the transactions... So the wallet 0xf4392fd61ecbe949121ea3e2951a9a21b69ace76 definitely belongs to dropil team. Thus all other wallets mentioned above with all its connections also belong to the team. You can estimate the total number of drops sold on the exchanges and then you will understand what happened with the price. I did not mention all connections among all the wallets but I have shown here enough to have what to think about.
+### Ethereum (ETH) Blockchain Explorer Ethereum Transactions Information<br>
 
-### (update - May 2020 There is new evidence to be added soon)
+### Etherscan Transactions that have been mined and confirmed on the Ethereum Blockchain.<br>
+
+The list consists of transactions from sending Ether and the transactions...<br>
+So the wallet `0xf4392fd61ecbe949121ea3e2951a9a21b69ace76` definitely belongs to dropil team.<br>
+Thus all other wallets mentioned above with all its connections also belong to the team.<br>
+You can estimate the total number of drops sold on the exchanges and then you will understand what happened with the price.<br>
+I did not mention all connections among all the wallets but I have shown here enough to have what to think about.

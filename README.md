@@ -30,7 +30,9 @@ Bitmart                                    | Wallet
 0xf21834684A4397900E7e323C11f4790027AE18d6 |
 0xe79eef9b9388a4ff70ed7ec5bccd5b928ebb8bd1 | Bitmart exchange wallet
 
-# Note that the list is not full and there can be a lot more interesting addresses to check later.
+## Note that the list is not full and there can be a lot more interesting addresses to check later.
+
+## ## (update - May 2020 There is new evidence to be added soon)
 
 A small introduction<br>
 All dropil ICO addresses were funded with drops a year ago from<br>

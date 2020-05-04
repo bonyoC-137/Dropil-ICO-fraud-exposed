@@ -133,4 +133,5 @@ The list consists of transactions from sending Ether and the transactions...<br>
 **So the wallet `0xf4392fd61ecbe949121ea3e2951a9a21b69ace76` definitely belongs to dropil team.**<br>
 Thus all other wallets mentioned above with all its connections also belong to the team.<br>
 You can estimate the total number of drops sold on the exchanges and then you will understand what happened with the price.<br><br>
-I did not mention all connections among all the wallets but I have shown here enough to have what to think about.
+I did not mention all connections among all the wallets but I have shown here enough to have what to think about.<br><br><br>
+Oleg

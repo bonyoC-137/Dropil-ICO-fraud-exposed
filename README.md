@@ -56,7 +56,7 @@ receives some ethers from `0xb30f` .<br>
 After that drops are transferred from `0x01ec` to another address.<br>
 <br>
 The owner of ICO address `0x01ec` has chosen to transfer his 18 millions of drops to<br>
-`0x942e07971838c920f31e878c136e0f72cc6d5bc1` - ( This address belongs to an account on IDAX exchange )<br><br>
+`0x942e07971838c920f31e878c136e0f72cc6d5bc1` - ( This address belongs to an account on IDAX exchange )<br>
 `0xbd6d79f3f02584cfcb754437ac6776c4c6e0a0ec` - ( is the main IDAX wallet),<br>
 so you can see `0x942e0` transfers tokens to `0xbd6d` ).<br>
 
@@ -80,10 +80,9 @@ Yes maybe, so just let us go further !
 
 Centralized exchanges are not so good for investigations like this because incoming and outgoing txns cannot be connected with each other without knowing data from an exchange.<br>
 
-An exceptions are decentralized exchanges like IDEX where you have one wallet for incoming<br>
-and outgoing txns.<br>
+An exceptions are decentralized exchanges like IDEX where you have one wallet for incoming and outgoing txns.<br>
 
-Let us look at ICO address `0x525eb48b57e69f3a35e348c4955d37081e282942` .<br>
+### Let us look at ICO address `0x525eb48b57e69f3a35e348c4955d37081e282942` .<br>
 
 You see a txn of 3 millions of drops from `0x525eb` to IDEX exchange and then you can see an _internal txn of 26.5 ethers_ on this address which mean withdrawal from IDEX after selling drops.<br>
 I rememeber that day when I thought that it was some crazy guy who suddenly realized that he has _3 m drops_ and then sold it at any price.<br>

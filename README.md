@@ -26,13 +26,15 @@ Or you can move to the next page to the story:)
 ``
 
 
-##### Group of IDAX addresses :  
+###### Group of IDAX addresses :  
 ``
-0x04b49a5c7433eb578b715ac23b9418ff41e1f5e3  
+0x04b49a5c7433eb578b715ac23b9418ff41e1f5e3
 ``
+
 ``
 0x942e07971838c920f31e878c136e0f72cc6d5bc1
 ``
+
 ``
 0x16c929c7ede967dd5cde84b05d0d5acce84dd2e3
 ``

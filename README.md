@@ -1,7 +1,6 @@
-# This is Oleg's investigation.
+# Dropil ICO fraud exposed !
 
-## ## Thank You for not giving up and exposing this scam project Oleg !
-
+<br>
 I have made a list of addresses that belong to some accounts on exchanges.<br>
 If you are good with etherscan then please try to look what was happening on these addresses yourself.<br>
 Or you can move to the next page to the story:)
@@ -32,9 +31,9 @@ Bitmart                                    | Wallet
 0xf21834684A4397900E7e323C11f4790027AE18d6 |
 0xe79eef9b9388a4ff70ed7ec5bccd5b928ebb8bd1 | Bitmart exchange wallet
 
-## Note that the list is not full and there can be a lot more interesting addresses to check later.
+# Note that the list is not full and there can be a lot more interesting addresses to check later.
 
-### A small introduction
+## A small introduction
 
 All dropil ICO addresses were funded with drops a year ago from<br>
 `0x925ea5af075bde17811e4bcdc198dc5d3675e466 (dropil vault).`<br>
@@ -47,14 +46,13 @@ I will tell about just a little part of interesting addresses and transactions,<
 but I also have made a scheme with much more information<br>
 and a _lot of mutual connections of involved addresses_.
 
-## Chapter 1\. **He has his reasons to do so !**
+# Chapter 1\. **He has his reasons to do so !**
 
 So here is an example:<br>
 Some sleeping ICO address like<br>
 `0x01ecbc76cdc5b8d4941e02dfe34a6b59dbcaf1c2`<br>
 receives some ethers from `0xb30f` .<br>
-After that drops are transferred from `0x01ec` to another address.<br>
-<br>
+After that drops are transferred from `0x01ec` to another address.<br><br>
 The owner of ICO address `0x01ec` has chosen to transfer his 18 millions of drops to<br>
 `0x942e07971838c920f31e878c136e0f72cc6d5bc1` - ( This address belongs to an account on IDAX exchange )<br>
 `0xbd6d79f3f02584cfcb754437ac6776c4c6e0a0ec` - ( is the main IDAX wallet),<br>
@@ -76,13 +74,13 @@ and he used so many ICO addresses because he had his reasons for it ?<br>
 
 Yes maybe, so just let us go further !
 
-## Chapter 2\. **Was it a crazy guy or not ?**
+# Chapter 2\. **Was it a crazy guy or not ?**
 
 Centralized exchanges are not so good for investigations like this because incoming and outgoing txns cannot be connected with each other without knowing data from an exchange.<br>
 
 An exceptions are decentralized exchanges like IDEX where you have one wallet for incoming and outgoing txns.<br>
 
-### Let us look at ICO address `0x525eb48b57e69f3a35e348c4955d37081e282942` .<br>
+## Let us look at ICO address `0x525eb48b57e69f3a35e348c4955d37081e282942` .<br>
 
 You see a txn of 3 millions of drops from `0x525eb` to IDEX exchange and then you can see an _internal txn of 26.5 ethers_ on this address which mean withdrawal from IDEX after selling drops.<br>
 I rememeber that day when I thought that it was some crazy guy who suddenly realized that he has _3 m drops_ and then sold it at any price.<br>
@@ -98,10 +96,11 @@ Such behavior is quite unusual for ICO addresses for dropil :).<br>
 The hub `0xfd7f7` got a lot of ether from Tidex (surprise) and it has really interesting transactions. Let us look closer at the address<br>
 `0xfd7f71d7f0e8e47b04009fb7237f708092e51d9c` .<br>
 `0xfd7f7` sent some ether to `0x460570ceffd7c8c35586ff8fec1f635a4907a624` - it is an ICO address that also got dividends from DEX.<br>
-And suddenly `0x460570` sent drops to `0x942e07971838c920f31e878c136e0f72cc6d5bc1` - to the IDAX account wallet described in the previous section.<br>
-We have our first connections but let us go further and I will show you a lot more!<br>
+And suddenly `0x460570` sent drops to `0x942e07971838c920f31e878c136e0f72cc6d5bc1` - IDAX account wallet described in the previous section(funded by sleeping ICO wallets).<br>
+We have our first connections !<br>
+But let us go further and I will show you a lot more !<br>
 
-## Chapter 3\. Covering tracks or leaving evidences ?
+# Chapter 3\. Covering tracks or leaving evidences ?
 
 Later `0xfd7f7` sent ether to sleeping ICO address `0xcddc8a77d2c14b7d3c12f1bbca87cd0232c9b9f1`<br>
 which sent its 12 m drops to `0x04b49a5c7433eb578b715ac23b9418ff41e1f5e3`<br>
@@ -122,9 +121,9 @@ And so let us look at outgoing txns from this hub:<br>
 **The main address for the dropil system ( `0x925ea5af075bde17811e4bcdc198dc5d3675e466` ) was funded from this address for 5 times.**<br>
 The second important address `0xb30f2f834f19b3836ad326e51affbf9219c130a8` also got ethers from this hub for paying fees.
 
-### Ethereum (ETH) Blockchain Explorer Ethereum Transactions Information<br>
+## Ethereum (ETH) Blockchain Explorer Ethereum Transactions Information<br>
 
-### Etherscan Transactions that have been mined and confirmed on the Ethereum Blockchain.<br>
+## Etherscan Transactions that have been mined and confirmed on the Ethereum Blockchain.<br>
 
 The list consists of transactions from sending Ether and the transactions...<br>
 So the wallet `0xf4392fd61ecbe949121ea3e2951a9a21b69ace76` definitely belongs to dropil team.<br>

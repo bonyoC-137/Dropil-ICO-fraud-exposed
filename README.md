@@ -3,7 +3,7 @@
 <br>
 I have made a list of addresses that belong to some accounts on exchanges.<br>
 If you are good with etherscan then please try to look what was happening on these addresses yourself.<br>
-Or you can move to the next page to the story:)
+Or you can move to the next page to the story:)<br>
 
 Tidex                                      | Wallet
 ------------------------------------------ | ---------------------
@@ -52,8 +52,7 @@ So here is an example:<br>
 Some sleeping ICO address like<br>
 `0x01ecbc76cdc5b8d4941e02dfe34a6b59dbcaf1c2`<br>
 receives some ethers from `0xb30f` .<br>
-After that drops are transferred from `0x01ec` to another address.<br>
-<br>
+After that drops are transferred from `0x01ec` to another address.<br><br>
 The owner of ICO address `0x01ec` has chosen to transfer his 18 millions of drops to<br>
 `0x942e07971838c920f31e878c136e0f72cc6d5bc1` - ( This address belongs to an account on IDAX exchange )<br>
 `0xbd6d79f3f02584cfcb754437ac6776c4c6e0a0ec` - ( is the main IDAX wallet),<br>
@@ -132,6 +131,9 @@ The second important address `0xb30f2f834f19b3836ad326e51affbf9219c130a8` also g
 The list consists of transactions from sending Ether and the transactions...<br>
 **So the wallet `0xf4392fd61ecbe949121ea3e2951a9a21b69ace76` definitely belongs to dropil team.**<br>
 Thus all other wallets mentioned above with all its connections also belong to the team.<br>
-You can estimate the total number of drops sold on the exchanges and then you will understand what happened with the price.<br><br>
-I did not mention all connections among all the wallets but I have shown here enough to have what to think about.<br><br><br>
+You can estimate the total number of drops sold on the exchanges and then you will understand what happened with the price.<br>
+<br>
+I did not mention all connections among all the wallets but I have shown here enough to have what to think about.<br>
+<br>
+<br>
 Oleg

@@ -38,8 +38,11 @@ Bitmart                                    | Wallet
 
 ### A small introduction
 
-All dropil ICO addresses were funded with drops a year ago from `0x925ea5af075bde17811e4bcdc198dc5d3675e466 (dropil vault).`<br>
-To receive tokens you should claim it using **dropil.com** and when you do it your address gets some ether from technical wallet `0xb30f2f834f19b3836ad326e51affbf9219c130a8` for paying txfee for transfer drops to an address that you choose.
+All dropil ICO addresses were funded with drops a year ago from<br>
+`0x925ea5af075bde17811e4bcdc198dc5d3675e466 (dropil vault).`<br>
+To receive tokens you should claim it using **dropil.com** and when you do it your address gets some ether from technical wallet<br>
+`0xb30f2f834f19b3836ad326e51affbf9219c130a8`<br>
+for paying txfee for transfer drops to an address that you choose.
 
 I will tell about just a little part of interesting addresses and transactions but I also have made a<br>
 scheme with much more information and a lot of mutual connections of involved addresses.

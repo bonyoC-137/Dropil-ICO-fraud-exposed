@@ -45,7 +45,7 @@ To receive tokens you should claim it using dropil.com and when you do it your a
 I will tell about just a little part of interesting addresses and transactions but I also have made a<br>
 scheme with much more information and a lot of mutual connections of involved addresses.
 
-## Chapter 1\. He has his reasons to do so
+## Chapter 1\. [He has his reasons to do so]
 
 So here is an example:
 

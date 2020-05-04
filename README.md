@@ -64,12 +64,16 @@ _Here I need to say that some of exchanges allow users to generate new address f
 incoming transaction but on the most part of exchanges (including IDAX, Tidex and Bitmart)<br>
 each account has its own address for incoming token and ether transfers and it cannot be changed by user._
 
-This IDAX account with `0x942e0` address received lots of tokens from sleeping ICO addresses<br>
-and from one address that was involved in DEX system. Later we will look at this address closer.<br>
-There I need to note that we talk about _just one address_ that got _75 million drops_ **directly from ICO addresses.** But who can say that it is not some crazy guy?<br>
-Maybe he invested in ICO hundreds of thousands USD<br>
-and he has never put 90% of his drops to DEX<br>
+This IDAX account with `0x942e0` address received lots of tokens from _sleeping ICO addresses_<br>
+and from one address that was involved in DEX system.<br>
+Later we will look at this address closer !<br>
+
+There I need to note that we talk about _just one address_ that got _75 million drops_ **directly from ICO addresses.**<br>
+But who can say that it is not some crazy guy ?<br>
+Maybe he invested in ICO **hundreds of thousands USD**<br>
+**and he has never put 90% of his drops to DEX**<br>
 and he used so many ICO addresses because he had his reasons for it ?<br>
+
 Yes maybe, so just let us go further !
 
 ## Chapter 2\. **Was it a crazy guy or not ?**

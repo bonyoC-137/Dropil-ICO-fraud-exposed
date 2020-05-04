@@ -1,4 +1,6 @@
-# This is Oleg's investigation. Thank You for not giving up and exposing this scam project Oleg !
+# This is Oleg's investigation.
+
+## ## Thank You for not giving up and exposing this scam project Oleg !
 
 I have made a list of addresses that belong to some accounts on exchanges.<br>
 If you are good with etherscan then please try to look what was happening on these addresses yourself.<br>

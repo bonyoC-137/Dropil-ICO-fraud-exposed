@@ -5,7 +5,7 @@ Or you can move to the next page to the story:)
 ###### Group of Tidex addresses :
 
 `
-0xefb38b0e5ef9c51c84e99b9165a493fb37b8e15f  
+0xefb38b0e5ef9c51c84e99b9165a493fb37b8e15f\
 0x4bedb29721617e722e3b92950e547795b5182fb9  
 0xae1402e65d3ad9b802d4e7304a0e722106960c7f  
 0x3a9fc93ff7cb669a578034375ae859ace8619bf0  

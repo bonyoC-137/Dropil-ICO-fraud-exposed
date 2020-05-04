@@ -25,21 +25,32 @@ Bitmart addresses :
 0xf21834684A4397900E7e323C11f4790027AE18d6  
 (Bitmart exchange wallet 0xe79eef9b9388a4ff70ed7ec5bccd5b928ebb8bd1)  
 
-Note that the list is not full and there can be a lot more interesting addresses to check later.
+Note that the list is not full and there can be a lot more interesting addresses to check later.  
 
-A small introduction
-All dropil ICO addresses were funded with drops a year ago from
-0x925ea5af075bde17811e4bcdc198dc5d3675e466 (dropil vault). To receive tokens you should
-claim it using dropil.com and when you do it your address gets some ether from technical wallet
-0xb30f2f834f19b3836ad326e51affbf9219c130a8 for paying txfee for transfer drops to an
-address that you choose.
-I will tell about just a little part of interesting addresses and transactions but I also have made a
-scheme with much more information and a lot of mutual connections of involved addresses.
-Chapter 1. He has his reasons to do so
-So here is an example:
-Some sleeping ICO address like 0x01ecbc76cdc5b8d4941e02dfe34a6b59dbcaf1c2 receives
-some ethers from 0xb30f . After that drops are transferred from 0x01ec to another address. The
-owner of ICO address 0x01ec has chosen to transfer his 18 millions of drops to
+A small introduction  
+All dropil ICO addresses were funded with drops a year ago from  
+``
+0x925ea5af075bde17811e4bcdc198dc5d3675e466 (dropil vault).
+``
+To receive tokens you should claim it using dropil.com and when you do it your address gets some ether from technical wallet  
+``
+0xb30f2f834f19b3836ad326e51affbf9219c130a8
+``
+for paying txfee for transfer drops to an address that you choose.  
+
+I will tell about just a little part of interesting addresses and transactions but I also have made a  
+scheme with much more information and a lot of mutual connections of involved addresses.  
+
+### Chapter 1. He has his reasons to do so
+So here is an example:  
+
+Some sleeping ICO address like
+``
+0x01ecbc76cdc5b8d4941e02dfe34a6b59dbcaf1c2
+``
+receives some ethers from 0xb30f.  
+After that drops are transferred from 0x01ec to another address.  
+The owner of ICO address 0x01ec has chosen to transfer his 18 millions of drops to
 0x942e07971838c920f31e878c136e0f72cc6d5bc1 . This address belongs to an account on
 IDAX exchange (main IDAX wallet is 0xbd6d79f3f02584cfcb754437ac6776c4c6e0a0ec , so you
 can see 0x942e0 transfers tokens to 0xbd6d ).

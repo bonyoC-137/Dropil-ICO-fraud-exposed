@@ -47,6 +47,12 @@ scheme with much more information and a lot of mutual connections of involved ad
 
 ## Chapter 1\. [ **He has his reasons to do so !** ]
 
-So here is an example: Some sleeping ICO address like `0x01ecbc76cdc5b8d4941e02dfe34a6b59dbcaf1c2` receives some ethers from `0xb30f` . After that drops are transferred from `0x01ec` to another address. The owner of ICO address `0x01ec` has chosen to transfer his 18 millions of drops to `0x942e07971838c920f31e878c136e0f72cc6d5bc1` This address belongs to an account on IDAX exchange (main IDAX wallet is `0xbd6d79f3f02584cfcb754437ac6776c4c6e0a0ec` , so you can see `0x942e0` transfers tokens to `0xbd6d` ).
+So here is an example: Some sleeping ICO address like<br>
+`0x01ecbc76cdc5b8d4941e02dfe34a6b59dbcaf1c2` receives some ethers from `0xb30f` .<br>
+After that drops are transferred from `0x01ec` to another address.<br>
+The owner of ICO address `0x01ec` has chosen to transfer his 18 millions of drops to<br>
+`0x942e07971838c920f31e878c136e0f72cc6d5bc1` - This address belongs to an account on IDAX exchange<br>
+(main IDAX wallet is `0xbd6d79f3f02584cfcb754437ac6776c4c6e0a0ec` ,<br>
+so you can see `0x942e0` transfers tokens to `0xbd6d` ).<br>
 
 ### (update - May 2020 There is new evidence to be added soon)

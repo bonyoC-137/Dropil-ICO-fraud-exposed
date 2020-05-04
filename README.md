@@ -84,7 +84,7 @@ An exceptions are decentralized exchanges like IDEX where you have one wallet fo
 
 You see a txn of 3 millions of drops from `0x525eb` to IDEX exchange and then you can see an _internal txn of 26.5 ethers_ on this address which mean withdrawal from IDEX after selling drops.<br>
 I rememeber that day when I thought that it was some crazy guy who suddenly realized that he has _3 m drops_ and then sold it at any price.<br>
-He could get _~ 40 ethers_ at the price then but he got just _26 ethers_.<br>
+He could get _40 ethers_ at the price then but he got just _26 ethers_.<br>
 So maybe it is just a crazy guy who needed fast money ?
 
 Let us check who sent ethers to this address `0x525eb` .<br>
@@ -112,13 +112,16 @@ Let us look closer at `0x04b49a5c7433eb578b715ac23b9418ff41e1f5e3`<br>
 `0x04b49` has got some part of tokens from `0x6a9717964154d72d43081b1a611197630a3aea49` that is very interesting for us.<br>
 It is some little hub for drops that was used to cover tracks, but they had to do it much more carefully.<br>
 `0x6a971` sent drops directly to<br>
-`0x4bedb29721617e722e3b92950e547795b5182fb9 (Tidex, 75 millions of incoming drops)`,<br>
-`0xdcfffa54ad7d3cd18c1876af6ef2ae1e1da7febe (Bitmart, just 16 millions )`,<br>
-`0xae1402e65d3ad9b802d4e7304a0e722106960c7f (Tidex, 48 millions of incoming drops)`<br>
+`0x4bedb29721617e722e3b92950e547795b5182fb9 (Tidex, 75 millions of incoming drops )`,<br>
+`0xdcfffa54ad7d3cd18c1876af6ef2ae1e1da7febe (Bitmart, just 16 millions drops )`,<br>
+`0xae1402e65d3ad9b802d4e7304a0e722106960c7f (Tidex, 48 millions of incoming drops )`<br>
 `0xae1402` got 16 ethers directly from initial ether hub `0xf4392fd61ecbe949121ea3e2951a9a21b69ace76`<br>
 And so let us look at outgoing txns from this hub:<br>
-<https://etherscan.io/txs?a=0xf4392fd61ecbe949121ea3e2951a9a21b69ace76&f=2><br>
-**The main address for the dropil system ( `0x925ea5af075bde17811e4bcdc198dc5d3675e466` ) was funded from this address for 5 times.**<br>
+[0xf4392fd61ecbe949121ea3e2951a9a21b69ace76](https://etherscan.io/txs?a=0xf4392fd61ecbe949121ea3e2951a9a21b69ace76&f=2)<br>
+**The main address for the dropil system<br>
+`0x925ea5af075bde17811e4bcdc198dc5d3675e466`<br>
+was funded from this address for 5 times !**<br>
+
 The second important address `0xb30f2f834f19b3836ad326e51affbf9219c130a8` also got ethers from this hub for paying fees.
 
 ## Ethereum (ETH) Blockchain Explorer Ethereum Transactions Information<br>
@@ -126,7 +129,7 @@ The second important address `0xb30f2f834f19b3836ad326e51affbf9219c130a8` also g
 ## Etherscan Transactions that have been mined and confirmed on the Ethereum Blockchain.<br>
 
 The list consists of transactions from sending Ether and the transactions...<br>
-So the wallet `0xf4392fd61ecbe949121ea3e2951a9a21b69ace76` definitely belongs to dropil team.<br>
+**So the wallet `0xf4392fd61ecbe949121ea3e2951a9a21b69ace76` definitely belongs to dropil team.**<br>
 Thus all other wallets mentioned above with all its connections also belong to the team.<br>
 You can estimate the total number of drops sold on the exchanges and then you will understand what happened with the price.<br>
 I did not mention all connections among all the wallets but I have shown here enough to have what to think about.
